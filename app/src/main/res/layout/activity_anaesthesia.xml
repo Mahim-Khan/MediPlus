@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/medi03"
+    tools:context=".Anaesthesia">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="4dp"
+        android:padding="10dp"
+        android:paddingLeft="15dp"
+        android:text="Generics Of Anaesthesia"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#ee9b00"
+        android:backgroundTint="#252324"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="@drawable/textview"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="29dp" />
+    <Button
+        android:id="@+id/Ana1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/textview"
+        android:text="@string/Anaesthesia"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:textColor="#170000"
+        app:backgroundTint="#c99999"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>

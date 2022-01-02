@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/drawable/ic_baseline_collections_bookmark_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/drawable/ic_baseline_person_search_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/drawable/ic_received_doc.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/drawable/textview.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_aanl_fissure.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_aanl_fissure1.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_aanl_fissure2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_about_us.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_acne.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_acne1.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_anaesthesia.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_cold.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_cold1.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_contactus.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_cough1.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_fever.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_main2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_medicine_details.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/activity_reference.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/sample_view.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/sampleview1.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/layout/sampleview2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Work/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

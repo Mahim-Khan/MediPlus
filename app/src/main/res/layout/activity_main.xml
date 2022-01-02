@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/medi03"
+    android:weightSum="6"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:layout_weight="2"
+        android:src="@drawable/mediplus02" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/search_buttonid"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/ic_baseline_search_24"
+            android:backgroundTint="#1b4332"
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#252324"
+            android:text="Search"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/medicine_details"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/ic_baseline_collections_bookmark_24"
+            android:padding="8dp"
+            android:textColor="#252324"
+            android:text="Medicine Book"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="2"
+        android:weightSum="4"
+        >
+
+        <Button
+            android:id="@+id/reference"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/ic_baseline_person_search_24"
+            android:backgroundTint="#8B008B"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:text="Reference"
+            android:textColor="#252324"
+            android:layout_gravity="center_horizontal"
+            android:textAllCaps="false"
+            android:textColorHighlight="@color/black"
+            android:layout_marginBottom="15dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/about_us"
+            android:layout_width="0dp"
+            android:padding="10dp"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:layout_weight="2"
+            android:textColor="#252324"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:layout_marginBottom="15dp"
+            android:text="About Us"
+            android:backgroundTint="#8B008B"
+            android:background="@drawable/ic_baseline_contact_support_24"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

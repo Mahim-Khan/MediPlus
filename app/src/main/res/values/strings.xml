@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">MediPlus</string>
+
+    <string name="Fever">Peracetamol</string>
+    <string name="Peracetamol">[TAB]Napa(500gm)</string>
+    <string name="Peracetamol1">[SUPP]Napa Suppository</string>
+
+    <string name="Cold0">Fexofenadine_Hydrochloride</string>
+    <string name="Cold1">Peracetamol + Caffeine</string>
+    <string name="Fexofenadine_Hydrochloride">[TAB]Fenadine</string>
+    <string name="Peracetamol_Caffeine">[TAB]Napa EXTRA(500mg)</string>
+
+    <string name="Cough">Fexofenadine Hydrochloride </string>
+    <string name="Cough_Fexofenadine_Hydrochloride">[TAB]Fexo</string>
+
+    <string name="Diarrhoea">Ciprofloxacin</string>
+    <string name="Ciprofloxacin">[TAB]Ciprox(250mg)</string>
+    <string name="Ciprofloxacin1">[TAB]Flontin(250mg)</string>
+    <string name="Ciprofloxacin2">[TAB]Floxabid(250mg)</string>
+
+    <string name="Anxiety">Clonaxepam</string>
+    <string name="Clonaxepam">[TAB]Xetil(0.5mg)</string>
+
+    <string name="Chickenpox"> Acyclovir</string>
+    <string name="Acyclovir">[TAB]Virux(200)</string>
+
+    <string name="Allergy">Antihistamin</string>
+    <string name="Antihistamin">[TAB]Bexidal (50mg)</string>
+    <string name="Antihistamin1">[TAB]Fexo</string>
+    <string name="Antihistamin2">[TAB]Alactrol</string>
+
+    <string name="Malaria">Artemether + Lumefantrine</string>
+    <string name="Artemether">[TAB]Lumertam(20mg+120mg)</string>
+    <string name="Malaria1">Chloroquine Phosphate</string>
+    <string name="Chloroquine">[TAB]Avloquin(250mg)</string>
+
+    <string name="Tuberculosis">Acetylcysteine</string>
+    <string name="Acetylcysteine">[MDI]Mucomist(600mg/3ml)</string>
+    <string name="Tuberculosis1">Amikacin</string>
+    <string name="Amikacin">[IJ]kacin(100mg/2ml)</string>
+
+    <string name="Acne">Adapalene 0.1% + Benzoyl Peroxide 2.5%</string>
+    <string name="Adapalene">[Gel]Fona Plus(1gm+2.5gm/100gm)</string>
+    <string name="Acne1">Adapalene 0.1% Topical</string>
+    <string name="AdapaleneT">[Gel]Adger(0.1%)</string>
+
+    <string name="Annaemia">Carbonyl Iron + Folic Acid +Zinc</string>
+    <string name="Carbonyl">[cap]Preg-C1 Cap(50mg+ 0.50mg+61.80mg)</string>
+    <string name="Carbonyl1">[cap]Zif-CI(50mg+ 0.50mg+61.80mg)</string>
+
+    <string name="Anaesthesia">Adrenaline + Lidocaine Hydrochloride</string>
+    <string name="Adrenaline">[IJ]Jasocaine A(50mcg+10mg)</string>
+    <string name="Adrenaline1">[IJ]Jasocaine A(50mcg+20mg/ml)</string>
+
+    <string name="AanlFissure">Calcium Dobesilate 4% + Lidocaine 2% + Dexamethasone Acetate 0.025% rectal prep</string>
+    <string name="Calcium">[ung]Pilosol Ointment</string>
+    <string name="AanlFissure1">Cinchocaine Hydrochloride 0.5% +Esculin 1% +Hydrocortisone + Neomycin Sulphate(rectal prep)</string>
+    <string name="Cinchocaine">[ung]Anustat(500mg+1gm+500mg)</string>
+
+    <string name="Haemorrhage">Adrenochrome Monosemicarbazone</string>
+    <string name="Adrenochrome">[TAB]Renoxyl(5mg)</string>
+    <string name="Haemorrhage1">Aminocaproic Acid</string>
+    <string name="Aminocaproic">[IJ]Caprolex(1gm/5ml)</string>
+    <string name="Haemorrhage2">Calcium Chloride + Dextrose Anhydrous +Potassium</string>
+    <string name="Calcium0">[IV inf]Infudex 5(5%w/v)</string>
+
+    <string name="HairLoss">Clobetasol Propionate +Salicylic Acid topical</string>
+    <string name="Clobetasol">[ung] Closalic Ointment</string>
+    <string name="HairLoss1">Minoxidil Topical</string>
+    <string name="Minoxidil">[Scalp Lotion]Splendora 5%(50mg/ml)</string>
+
+    <string name="Headache">Aspirin</string>
+    <string name="Aspirin">[TAB]Carva 75(75mg)</string>
+    <string name="Aspirin1">[TAB]Angin(75mg)</string>
+
+    <string name="GastricProblem">Fluphenazine Hydrochloride + Nortriptyline</string>
+    <string name="Fluphenazine">[TAB]Apresin(0.5mg+10mg)</string>
+    <string name="Fluphenazine1">[TAB]Moodon</string>
+    <string name="Fluphenazine2">[TAB]Fresh</string>
+
+    <string name="DrySkin">Light Liquid Paraffin + White Soft Paraffin Topical</string>
+    <string name="Light">[Lotion]Emolent(3gm+8gm/100gm)</string>
+
+    <string name="GumDisease">Chlorhexidine Gluconate 1% Oral prep</string>
+    <string name="Chlorhexidine">[Cream]Hexitane(1%)</string>
+    <string name="Chlorhexidine1">[Gel]Oralon(1%)</string>
+    <string name="GumDisease1">Eucalyptol + Menthol + Methyl Salicylate + Thymol +Sodium Fluoride</string>
+    <string name="Eucalyptol">[Mouthwash]Orostar Plus(120ml/250ml)</string>
+
+    <string name="GumSore">Chlorhexidine Gluconate 1% Oral prep</string>
+    <string name="Chlorhexidine0">[Cream]Hexitane(1%)</string>
+    <string name="Chlorhexidine01">[Gel]Oralon(1%)</string>
+
+    <string-array name="Disease">
+        <item>Fever</item>
+        <item>Cold</item>
+        <item>Cough</item>
+        <item>Diarrhoea</item>
+        <item>Anxiety</item>
+        <item>Chickenpox</item>
+        <item>Allergy</item>
+        <item>Malaria</item>
+        <item>Tuberculosis</item>
+        <item>Acne</item>
+        <item>Annaemia</item>
+        <item>Anaesthesia</item>
+        <item>Aanl Fissure</item>
+        <item>Haemorrhage</item>
+        <item>Hair Loss</item>
+        <item>Headache</item>
+        <item>Gastric Problem</item>
+        <item>Dry Skin</item>
+        <item>Gum Disease</item>
+        <item>Gum Sore</item>
+
+    </string-array>
+    <string name="Doc1">Perscribed by Dr.Sadia Halima(for more details->)</string>
+    <string name="Doc2">Perscribed by Dr.Md. Moyminul Islam(for more details->)</string>
+    <string name="Doc3">Perscribed by Dr. Tahmina Sultana(for more details->)</string>
+
+    <string name="Reference1"><br>Dr.Sadia Halima\n</br>
+         <br>Session:2009-2010\n</br>
+         <br>DMDC Registration No: 7787\n</br>
+         <br>Passed From: Anwer Khan Modern Medical College Hospital\n</br>
+         <br>Degree: MBBS,DMU\n</br>
+         <br>Present: Dhanmondi General And Kidney Hospital Limited(Dhanmondi 7)\n</br>
+         <br>Phone: 01676735527\n</br></string>
+
+    <string name="doc2"><br>Dr.Md. Moyminul Islam\n</br>
+         <br>Session: 2013-2014\n</br>
+         <br>DMDC Registration No:9921\n</br>
+         <br>Passed From: Shaheed Suhrawardy Medical College,Dhaka\n</br>
+         <br>Degree: MBBS\n</br>
+         <br>Present: Salauddin Specialzed Hospital LTD.\n</br>
+         <br>Phone: 01893502330\n</br></string>
+
+    <string name="doc3"><br>Dr. Tahmina Sultana\n</br>
+         <br>Session:2011-2012\n</br>
+         <br>DMDC Registration No: 98545\n</br>
+         <br>Passed From: Southern Medical University,China\n</br>
+         <br>Degree: MBBS,PGT\n</br>
+         <br>Present: Dr.Sirajul Islam Medical college and Hospital\n</br>
+         <br>Phone: 01575071832\n</br></string>
+
+
+    <string-array name="Reference">
+        <item><br>Dr.Sadia Halima\n</br>
+         <br>Session: 2009-2010\n</br>
+         <br>DMDC Registration No: 7787\n</br>
+         <br>Passed From:Anwer Khan Modern Medical College Hospital\n</br>
+         <br>Degree: MBBS,DMU\n</br>
+         <br>Present: Dhanmondi General And Kidney Hospital Limited(Dhanmondi 7)\n</br>
+         <br>Phone: 01676735527\n</br></item>
+
+        <item><br>Dr.Md. Moyminul Islam\n</br>
+         <br>Session: 2013-2014\n</br>
+         <br>DMDC Registration No:9921\n</br>
+         <br>Passed From: Shaheed Suhrawardy Medical College,Dhaka\n</br>
+         <br>Degree: MBBS\n</br>
+         <br>Present: Salauddin Specialzed Hospital LTD.\n</br>
+         <br>Phone: 01893502330\n</br></item>
+
+        <item><br>Dr. Tahmina Sultana\n</br>
+         <br>Session:2011-2012\n</br>
+         <br>DMDC Registration No: 98545\n</br>
+         <br>Passed From: Southern Medical University,China\n</br>
+         <br>Degree: MBBS,PGT\n</br>
+         <br>Present: Dr.Sirajul Islam Medical college and Hospital\n</br>
+         <br>Phone: 01575071832\n</br></item>
+
+    </string-array>
+    <string-array name="Contact_info">
+        <item><br>Md. Aftabur Rahman Tonmoy\n </br>
+        <br>Phone: 01760384800\n </br>
+        <br>Email: aftabur15-10423@diu.edu.bd\n </br>
+        <br>ID: 173-15-10423\n</br>
+        <br>Daffodil International University\n</br></item>
+
+        <item><br>Abdullah Al Fahim\n</br>
+        <br>Phone: 01938931519\n</br>
+        <br>Email: abdullah15-10430@diu.edu.bd\n</br>
+        <br>ID: 173-15-10430\n</br>
+        <br>Daffodil International University\n</br></item>
+    </string-array>
+</resources>
